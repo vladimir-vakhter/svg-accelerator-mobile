@@ -1,4 +1,4 @@
-# svg-accelerator-mobile
+# svg-accelerometer-mobile
 A Qt Quick mobile application that accelerates an SVG (Scalable Vector Graphics) image based on the changing accelerometer values.
 
 ## About
